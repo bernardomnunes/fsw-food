@@ -1,7 +1,7 @@
+import Header from "./_components/header"
+
 const Home = () => {
-  return ( 
-    <div>Hello tailwind</div>
-   );
+  return <Header />
 }
- 
-export default Home;
+
+export default Home
