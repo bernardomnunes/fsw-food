@@ -16,7 +16,7 @@ const Home = () => {
 
       <div className="px-5 pt-6">
         <Image
-          src={"/banner_pizza.png"}
+          src={"/banner_pizza.svg"}
           alt="até 30% de desconto em pizzas!"
           height={0}
           width={0}
